@@ -45,7 +45,7 @@
 "sh -c $(dmenu_run -b -nf '#657b83' -nb '#fdf6e3' -sf '#586e75' -sb '#eee8d5')"
     Mod4 + p
 
-"xlock -dpmsoff 5"
+"xautolock -locknow"
     XF86Sleep
 
 "mpc -h monolith toggle"

@@ -42,7 +42,7 @@
 "urxvt"
     Mod4 + Return
 
-"sh -c $(dmenu_run -b -nf '#657b83' -nb '#fdf6e3' -sf '#586e75' -sb '#eee8d5')"
+"sh -c $(/suse/jkeil/.cabal/bin/yeganesh -x -- -b -nf '#657b83' -nb '#fdf6e3' -sf '#586e75' -sb '#eee8d5' -fn '-*-terminus-medium-*-*-*-12-*-*-*-*-*-*-*')"
     Mod4 + p
 
 "xautolock -locknow"

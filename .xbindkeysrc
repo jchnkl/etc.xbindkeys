@@ -42,7 +42,7 @@
 "urxvt"
     Mod4 + Return
 
-"sh -c $(yeganesh -x -- -b -nf '#657b83' -nb '#fdf6e3' -sf '#586e75' -sb '#eee8d5' -fn '-*-terminus-medium-*-*-*-12-*-*-*-*-*-*-*')"
+"sh -c $(yeganesh -x -- -b -nf '#657b83' -nb '#fdf6e3' -sf '#586e75' -sb '#eee8d5' -fn 'terminus:size=12')"
     Mod4 + r
 
 "mpc -h monolith toggle"

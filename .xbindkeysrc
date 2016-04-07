@@ -46,6 +46,9 @@
 "dmenu_run -b -nf '#657b83' -nb '#fdf6e3' -sf '#586e75' -sb '#eee8d5' -fn 'terminus:size=12'"
     Mod4 + r
 
+"xautolock -locknow"
+    Super_L + F8
+
 "mpc -h monolith toggle"
     XF86AudioPlay
 
